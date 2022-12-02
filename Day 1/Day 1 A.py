@@ -3,7 +3,7 @@ cur_cal = 0
 max_cal = 0
 
 # Open inputs file.
-with open(r'D:\Documents\Programming\Python Projects\Programming Challenges\Adventure of Code\Day 1\inputs.txt', 'r') as file:
+with open(r'D:\Documents\Programming\Python Projects\Advent of Code 2022\Day 1\inputs.txt', 'r') as file:
 
     # Read through all file lines.
     lines = file.readlines()

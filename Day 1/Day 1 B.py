@@ -3,7 +3,7 @@ cur_cal = 0
 cal_list = []
 
 # Open text file.
-with open(r'D:\Documents\Programming\Python Projects\Programming Challenges\Adventure of Code\Day 1\inputs.txt', 'r') as file:
+with open(r'D:\Documents\Programming\Python Projects\Advent of Code 2022\Day 1\inputs.txt', 'r') as file:
 
     # Read all lines in text file.
     lines = file.readlines()
